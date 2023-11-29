@@ -1,0 +1,20 @@
+Descrição das etapas do projeto
+
+1. Tarefas administrativas (4 horas)
+
+1. Recebimento dos dados e especificações iniciais (1 hora)
+
+2. Tratamento e geocodificação (4 horas)
+  2.1 OSM, CEM-USP, IBGE, https://www.datawrapper.de/, https://www.cepaberto.com/, 
+
+3. Verificação amostral da geocodifcação (2 horas)
+
+3. Elaboração das camadas (4 horas)
+
+4. Layout das camadas (4 horas)
+
+5. Layout do mapa (8 horas)
+
+6. Elaboração do conjunto de arquivos c/html (4 horas)
+
+7. Armazenamento, se necessário
