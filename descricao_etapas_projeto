@@ -10,12 +10,12 @@ Descrição das etapas do projeto
   2.1 OSM, CEM-USP, IBGE, https://www.datawrapper.de/, https://www.cepaberto.com/, 
   2.2 Revisão visual ponto-a-ponto
 
-4. Elaboração das camadas geográficas (4 horas)
-  4.1 Utilização do software QGIS - Versão 3.28.4-Firenze
-  4.2 Geração dos arquivos nos formatos shapefile (shp) e Keyhole Markup Language (kml)
+3. Elaboração das camadas geográficas (4 horas)
+  3.1 Utilização do software QGIS - Versão 3.28.4-Firenze
+  3.2 Geração dos arquivos nos formatos shapefile (shp) e Keyhole Markup Language (kml)
 
-5. Obtenção de arquivo geográfico com os limites regionais do Brasil (1h)
-  5.1 Obtenção do arquivo contendo as divisões regionais referentes ao ano de 2021 no GEOFTP do IBGE
+4. Obtenção de arquivo geográfico com os limites regionais do Brasil (1h)
+  4.1 Obtenção do arquivo contendo as divisões regionais referentes ao ano de 2021 no GEOFTP do IBGE
   <disponível em http://geoftp.ibge.gov.br/organizacao_do_territorio/divisao_regional/divisao_regional_do_brasil/divisao_regional_do_brasil_em_regioes_geograficas_2017/>
 
 5. Layout das camadas (4 horas)
