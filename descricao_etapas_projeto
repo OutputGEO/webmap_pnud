@@ -15,7 +15,8 @@ Descrição das etapas do projeto
   4.2 Geração dos arquivos nos formatos shapefile (shp) e Keyhole Markup Language (kml)
 
 5. Obtenção de arquivo geográfico com os limites regionais do Brasil (1h)
-  5.1 Obtenção do arquivo contendo as divisões regionais referentes ao ano de 2021 no GEOFTP do IBGE (disponível em http://geoftp.ibge.gov.br/organizacao_do_territorio/divisao_regional/divisao_regional_do_brasil/divisao_regional_do_brasil_em_regioes_geograficas_2017/)
+  5.1 Obtenção do arquivo contendo as divisões regionais referentes ao ano de 2021 no GEOFTP do IBGE
+  <disponível em http://geoftp.ibge.gov.br/organizacao_do_territorio/divisao_regional/divisao_regional_do_brasil/divisao_regional_do_brasil_em_regioes_geograficas_2017/>
 
 5. Layout das camadas (4 horas)
   5.1 Definição de simbologias
