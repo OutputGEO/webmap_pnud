@@ -1,20 +1,46 @@
 Descrição das etapas do projeto
 
-1. Tarefas administrativas (4 horas)
+1. Tarefas administrativas (5 horas)
+1.1 Recebimento dos dados e especificações iniciaisde layout (1 hora)
+  1.2 Definiçãõ dos produtos para elaboração
+    1.2.1 1 mapa dinâmico contendo a divisão regional do país e a exibição dos estabelecimentos em camadas distintas segunto tipo
+    1.2.2 1 mapa estático para compor relatório técnico
 
-1. Recebimento dos dados e especificações iniciais (1 hora)
-
-2. Tratamento e geocodificação (4 horas)
+2. Tratamento e geocodificação (10 horas)
   2.1 OSM, CEM-USP, IBGE, https://www.datawrapper.de/, https://www.cepaberto.com/, 
+  2.2 Revisão visual ponto-a-ponto
 
-3. Verificação amostral da geocodifcação (2 horas)
+4. Elaboração das camadas geográficas (4 horas)
+  4.1 Utilização do software QGIS - Versão 3.28.4-Firenze
+  4.2 Geração dos arquivos nos formatos shapefile (shp) e Keyhole Markup Language (kml)
 
-3. Elaboração das camadas (4 horas)
+5. Obtenção de arquivo geográfico com os limites regionais do Brasil (1h)
+  5.1 Obtenção do arquivo contendo as divisões regionais referentes ao ano de 2021 no GEOFTP do IBGE (disponível em http://geoftp.ibge.gov.br/organizacao_do_territorio/divisao_regional/divisao_regional_do_brasil/divisao_regional_do_brasil_em_regioes_geograficas_2017/)
 
-4. Layout das camadas (4 horas)
+5. Layout das camadas (4 horas)
+  5.1 Definição de simbologias
+  5.2 Tratamento e organização de campos
+  5.3 Definição do formato de exibição dos dados nos balões informativos do mapa dinâmico (webmap)
 
-5. Layout do mapa (8 horas)
+6. Layout dos mapas (10 horas)
+  6.1 Mapa dinâmico
+    6.1.1 Definição de legenda
+    6.1.2 Definição de escala 
+    6.1.3 Definição de mapa basae
+    6.1.4 Definição de ordem de exibição das camadas
+  6.2 Mapa estático
+    6.2.1 Definição de legenda
+    6.2.2 Definição de escala 
+    6.2.4 Definição de ordem de exibição das camadas
+    6.2.4 Definição de rótulos
+    6.2.5 Geração dos arquivos <formatos png e pdf>
 
-6. Elaboração do conjunto de arquivos c/html (4 horas)
+7. Elaboração do conjunto de arquivos c/html (6 horas)
+  7.1 Definição de plugin de conversão 
+  7.2 Definição de estrutura de código
+  7.3 Tratamento e organização dos campos
+  7.4 Definição da aparência geral e exibição de ferramentas
+  7.5 Geração do conjunto de arquivos <html | js + css>
 
-7. Armazenamento, se necessário
+
+8. Armazenamento, se necessário
