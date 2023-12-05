@@ -37,8 +37,8 @@ Descrição das etapas do projeto
     6.2.5 Geração dos arquivos <formatos png e pdf>
 
 7. Elaboração do conjunto de arquivos c/html (6 horas)
-  7.1 Definição de plugin de conversão 
-  7.2 Definição de estrutura de código
+  7.1 Definição de plugin de conversão <QGIS2WEB>
+  7.2 Definição de estrutura de código <LEALEF>
   7.3 Tratamento e organização dos campos
   7.4 Definição da aparência geral e exibição de ferramentas
   7.5 Geração do conjunto de arquivos <html | js + css>
