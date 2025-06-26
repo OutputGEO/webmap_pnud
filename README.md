@@ -1,4 +1,4 @@
-# Modelo de webmap para o Programa Brasileiro de Eeeliminação dos HCFCs / PNUD
+# Modelo de webmap para o Programa Brasileiro de Eliminação dos HCFCs / PNUD
 
 Link para acesso: <a href="https://outputgeo.github.io/webmap_pnud" target="_blank">https://outputgeo.github.io/webmap_pnud</a>
 
